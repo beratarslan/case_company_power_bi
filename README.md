@@ -1,1 +1,1 @@
-# case_company_power_bi
+# Power BI Dashboard for a Case Company
