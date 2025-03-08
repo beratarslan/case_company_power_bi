@@ -79,13 +79,13 @@ The goal of this project was to develop an interactive and user-friendly analyti
 # Final Output
 ## Screenshots
 
-![Output1](images/Output1.png)
+![Output1](images/output1.png)
 
 
-![Output2](images/Output2.png)
+![Output2](images/output2.png)
 
 
-![Output3](images/Output3.png)
+![Output3](images/output3.png)
 
 
 
