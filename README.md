@@ -76,7 +76,16 @@ The goal of this project was to develop an interactive and user-friendly analyti
 - **Scheduled Data Refresh**: Integrated **Power BI Gateway** for automatic updates as new data streams in.  
 - **Row-Level Security (RLS)**: Implemented access controls to ensure users only view data relevant to their roles.  
 
----
+# Final Output
+## Screenshots
+
+![Output1](images/Output1.png)
+
+
+![Output2](images/Output2.png)
+
+
+![Output3](images/Output3.png)
 
 
 
