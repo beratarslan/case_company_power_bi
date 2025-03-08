@@ -26,18 +26,13 @@ The goal of this project was to develop an interactive and user-friendly analyti
 - **Currency Standardization:** Converted global sales into **USD** to ensure uniform financial reporting.  
 - **Profitability Analysis:** Incorporated **cost of goods sold (COGS), discounts, and quantities** to refine financial metrics.  
 - **Interactive Dashboard:** Implemented **slicers, custom panes, and drillthrough buttons** for an engaging analytical experience.  
-- **Automated Data Refresh:** Configured **Power BI Gateway** for seamless updates.  
 - **Advanced DAX Metrics:** Developed KPIs such as **revenue, profit margin, and year-over-year (YoY) sales growth**.  
-- **Data Security:** Implemented **Row-Level Security (RLS)** to control user access based on roles.  
-
 ---
 
 ## **Technology Stack**  
 
 - **Data Sources:** PostgreSQL, MySQL, Excel, CSV, PDF  
 - **Tools:** Power BI, Power Query, DAX  
-- **Gateway:** Power BI Gateway for scheduled data refresh  
-
 ---
 
 ## **Step-by-Step Execution**  
@@ -72,9 +67,6 @@ The goal of this project was to develop an interactive and user-friendly analyti
   - **Sales targets based on last month's performance**  
   - **YoY growth and overall sales trend analysis**  
 
-### **6. Automation & Security**  
-- **Scheduled Data Refresh**: Integrated **Power BI Gateway** for automatic updates as new data streams in.  
-- **Row-Level Security (RLS)**: Implemented access controls to ensure users only view data relevant to their roles.  
 
 # Final Output
 ## Screenshots
