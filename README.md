@@ -4,9 +4,6 @@
 ### Dark Version Dashboard
 ![Dark_Version_Dashboard](images/Dark_Version_Dashboard.png)
 
-### Filtering
-![Filtering](images/Filtering.png)
-
 ### Product Analysis
 ![Product_Analysis](images/Product_Analysis.png)
 
