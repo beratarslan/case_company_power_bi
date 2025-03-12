@@ -1,5 +1,3 @@
-# BI-01 All Formulas & DAX
-
 ## Simple Formula
 
 ### Price local currency to USD
