@@ -71,11 +71,15 @@ The goal of this project was to develop an interactive and user-friendly analyti
 # Final Output
 ## Screenshots
 
+![Output_6](images/output6.png)
+
 ![Output_4](images/output4.png)
 
 ![Output_5](images/output5.png)
 
 ![Output_3](images/output3.png)
+
+
 
 
 
