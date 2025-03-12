@@ -1,23 +1,3 @@
-## Simple Formula
-
-### Price local currency to USD
-```DAX
-Price in USD = Price * Exchange Rate %
-```
-
-### How to find Net Sale after discount
-```DAX
-Net Sale = (Unit_p_usd * qty )  * (1 - discount %)
-```
-
-## What is Row Level Security (RLS)
-```DAX
-[country] == "India" // Filter data for India users
-```
-
-## DAX - Data Analysis Expressions
-DAX is similar to SQL functions.
-
 ### Creating an Empty Table
 ```DAX
 measures_table = GENERATESERIES(-1, 1, 1)
